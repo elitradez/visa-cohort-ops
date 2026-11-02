@@ -1,0 +1,11 @@
+record_id,route,status,status_reason,next_action,owner,deadline,evidence_reference,escalation_route,last_updated
+COHORT-001,Site A,READY,Administrative checklist complete,Monitor official status,Participant,2026-11-12,REF-A01,,2026-11-02
+COHORT-002,Site A,FIX REQUIRED,Evidence filename does not match register,Rename evidence file,Coordinator,2026-11-05,REF-A02,,2026-11-02
+COHORT-003,Site B,ESCALATE,Question requires authorized interpretation,Authorized adviser review,Program lead,2026-11-04,REF-B03,Authorized adviser,2026-11-02
+COHORT-004,Site A,READY,Appointment receipt logged,Confirm appointment receipt,Participant,2026-11-09,REF-A04,,2026-11-02
+COHORT-005,Site B,FIX REQUIRED,Required translation not recorded,Add missing translation,Coordinator,2026-11-06,REF-B05,,2026-11-02
+COHORT-006,Site A,READY,Administrative checklist complete,Monitor official status,Participant,2026-11-15,REF-A06,,2026-11-02
+COHORT-007,Site B,FIX REQUIRED,Date mismatch between internal records,Correct date mismatch,Coordinator,2026-11-07,REF-B07,,2026-11-02
+COHORT-008,Site B,ESCALATE,Portal state cannot be resolved administratively,Official support query,Program lead,2026-11-05,REF-B08,Official support channel,2026-11-02
+COHORT-009,Site A,READY,Confirmation recorded,Archive confirmation,Coordinator,2026-11-11,REF-A09,,2026-11-02
+COHORT-010,Site B,FIX REQUIRED,Reference absent from register,Supply missing reference,Participant,2026-11-08,REF-B10,,2026-11-02
